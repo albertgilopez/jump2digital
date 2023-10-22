@@ -20,7 +20,7 @@ Se llevaron a cabo varios pasos para depurar y preprocesar los datos:
 * Segmentación de niveles de ruido en categorías más generales ("Bajo", "Moderado", "Alto").
 
 ## Resultados
-* Se realizaron varios análisis exploratorios y gráficos para entender mejor la relación entre el costo de alquiler y otros factores como el nivel de ruido. Se encontró que:
+Se realizaron varios análisis exploratorios y gráficos para entender mejor la relación entre el costo de alquiler y otros factores como el nivel de ruido. Se encontró que:
 
 ![Distribución del Precio Mensual de Alquiler / m2](assets/precio.png)
 
