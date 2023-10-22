@@ -22,16 +22,15 @@ Se llevaron a cabo varios pasos para depurar y preprocesar los datos:
 ## Resultados
 * Se realizaron varios análisis exploratorios y gráficos para entender mejor la relación entre el costo de alquiler y otros factores como el nivel de ruido. Se encontró que:
 
-(Incluir resultados clave aquí)
-
-## Conclusiones
-A partir de los resultados obtenidos, se puede inferir que:
+![Distribución del Precio Mensual de Alquiler / m2](assets/precio.png)
 
 **INISGHT 1: Distribución del precio de alquiler y el precio del m2**
 
 * Distribución del Precio Mensual de Alquiler: Este gráfico muestra la distribución del precio mensual de alquiler en euros. La mayoría de los precios mensuales se concentran en el rango de aproximadamente 400 a 1.200 euros.
 
 * Distribución del Precio de Alquiler por m²: Este gráfico muestra la distribución del precio de alquiler por metro cuadrado en euros. Aquí, la mayoría de los precios por m² se encuentran en el rango de aproximadamente 8 a 14 euros.
+  
+![Relación entre Precio de Alquiler y Porcentaje de Población Expuesta a Diferentes Niveles de Ruido](assets/ruido.png)
 
 **INSIGHT 2: Relación entre el Precio de Alquiler y el Porcentaje de Población Expuesta a Diferentes Niveles de Ruido**
 * No parece haber una correlación clara entre el precio del alquiler y el porcentaje de población expuesta a diferentes niveles de ruido. Sin embargo, es interesante notar que las áreas con niveles de ruido "Alto" tienden a tener un rango más amplio de precios de alquiler.
@@ -44,7 +43,8 @@ A partir de los resultados obtenidos, se puede inferir que:
 * Ciutat Meridiana: Este barrio tiene el precio medio de alquiler más bajo (aproximadamente 222 €), pero alrededor del 21% de su población está expuesta a niveles altos de ruido.
 * Torre Baró: Con un precio medio de alquiler de aproximadamente 243 €, este barrio tiene alrededor del 8% de su población expuesta a niveles bajos de ruido y aproximadamente el 4% a niveles moderados.
 
-  **PREGUNTA: ¿Cómo podrían las políticas públicas beneficiarse de los patrones y correlaciones encontradas en este estudio?**
+## Conclusiones
+A partir de los resultados obtenidos, se puede inferir que:
 
 Los patrones y correlaciones encontrados en este estudio ofrecen varias oportunidades para el diseño de políticas públicas:
 
