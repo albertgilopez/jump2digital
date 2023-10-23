@@ -3,8 +3,8 @@
 Este proyecto tiene como objetivo analizar cómo diferentes factores relacionados con la calidad de vida afectan el coste del alquiler en la ciudad de Barcelona. Los conjuntos de datos principales utilizados en este estudio incluyen información detallada sobre el costo medio de alquiler en diferentes barrios y distritos, así como datos sobre la exposición al ruido.
 
 ## Variables Seleccionadas
-* Costo medio de alquiler mensual (€/mes)
-* Costo medio de alquiler por superficie (€/m²)
+* Coste medio de alquiler mensual (€/mes)
+* Coste medio de alquiler por superficie (€/m²)
 * Niveles de ruido (en dB)
 * Localización (barrios y distritos)
 
