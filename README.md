@@ -1,4 +1,4 @@
-# Análisis de Calidad de Vida y Coste de Alquiler en Barcelona
+# Reto DataScience JUMP2DIGITAL MWC 2023
 ## Introducción
 Este proyecto tiene como objetivo analizar cómo diferentes factores relacionados con la calidad de vida afectan el coste del alquiler en la ciudad de Barcelona. Los conjuntos de datos principales utilizados en este estudio incluyen información detallada sobre el costo medio de alquiler en diferentes barrios y distritos, así como datos sobre la exposición al ruido.
 
